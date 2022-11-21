@@ -4,8 +4,8 @@
 ### Entre em contato 
 [![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-medeiro-alves-134ba2195) [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511972386960&text=Ol%C3%A1,%20me%20chamo%20Diego%20Alves)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoAlves20&show_icons=true&theme=merko)
-[![Diego Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAlves20&show_icons=false&theme=merko)](https://github.com/DiegoAlves20/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=DiegoAlves20&show_icons=true&theme=merko&custom_title=Diego%20Alves%20GitHub%20Status%20💠)
+[![Diego Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAlves20&card_width=500px&custom_title=Linguagens%20mais%20utilizadas&show_icons=false&theme=merko)](https://github.com/DiegoAlves20/github-readme-stats)
 
 ### Tecnologias que uso no desenvolvimento das aplicações
 <div style="display: inline_block">
