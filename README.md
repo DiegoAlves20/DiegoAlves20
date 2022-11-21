@@ -4,7 +4,7 @@
 ### Entre em contato 
 [![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-de-medeiro-alves-134ba2195) [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511972386960&text=Ol%C3%A1,%20me%20chamo%20Diego%20Alves)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoAlves20&show_icons=true&theme=dracula)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoAlves20&show_icons=true&theme=tokionight)
 
 ### Tecnologias que uso no desenvolvimento das aplicações
 <div style="display: inline_block">
